@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="WebClient:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/WebClient_jar</output-path>
+    <root id="archive" name="WebClient.jar">
+      <element id="module-output" name="WebClient" />
+      <element id="extracted-dir" path="D:/eclipse/plugins/javax.wsdl_1.6.2.v201012040545.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/eclipse/plugins/org.apache.axis_1.4.0.v201411182030/lib/axis.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/eclipse/plugins/javax.xml.soap_1.2.0.v201005080501/lib/saaj.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/eclipse/plugins/javax.xml.rpc_1.1.0.v201209140446/lib/jaxrpc.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/eclipse/plugins/org.apache.commons.discovery_0.2.0.v201004190315/lib/commons-discovery-0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/eclipse/plugins/org.apache.commons.logging_1.1.1.v201101211721.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
